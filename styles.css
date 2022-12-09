@@ -1,0 +1,21 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+    -webkit-text-stroke: .5px white;
+}
+body{
+    background-image: url(/img/backgroundBenja.jpeg);
+}
+
+.botonCalcularGastos{
+    border-radius: 10%;
+    all: unset;
+    border: black solid;
+    border-radius: 200px;
+    padding: 10px 15px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.botonCalcularGastos:hover{
+    color: aliceblue;
+    background-color: rgb(114, 114, 114);
+}
